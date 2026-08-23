@@ -1,0 +1,13 @@
+Enterprise Knowledge Assistant
+
+The Enterprise Knowledge Assistant allows employees to ask natural language questions about company policies and product documentation.
+
+The system uses retrieval augmented generation to retrieve relevant company documents before generating an answer.
+
+The assistant provides source references with answers so users can verify the information.
+
+The system supports documents from HR, Engineering, Security and Product departments.
+
+The assistant should answer questions using the available company knowledge base.
+
+If relevant information cannot be found in the knowledge base, the assistant should clearly state that the information is unavailable.

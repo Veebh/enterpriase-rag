@@ -1,0 +1,15 @@
+Data Security Policy
+
+Customer data must only be accessed by employees who have a legitimate business requirement.
+
+Production customer data must not be copied to personal devices.
+
+Sensitive customer information must be encrypted during transmission.
+
+Sensitive information stored in databases must use approved encryption mechanisms.
+
+Employees must report suspected data breaches immediately to the security team.
+
+Access to sensitive systems must follow the principle of least privilege.
+
+Security logs must be retained according to the company's retention requirements.

@@ -1,0 +1,15 @@
+Engineering Coding Standards
+
+All production applications must follow the company's coding standards.
+
+C# applications should use meaningful class, method, and variable names.
+
+Public APIs must include appropriate error handling.
+
+Production code must include automated unit tests for critical business logic.
+
+Pull requests require review from at least one other engineer.
+
+Sensitive information such as passwords, API keys and connection strings must never be stored directly in source code.
+
+Applications should use centralized configuration and secret management.

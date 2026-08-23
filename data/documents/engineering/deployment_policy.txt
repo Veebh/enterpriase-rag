@@ -1,0 +1,15 @@
+Production Deployment Policy
+
+Production deployments must be performed through the approved CI/CD pipeline.
+
+Engineers must not manually deploy application binaries directly to production.
+
+Every production deployment must be associated with an approved change request.
+
+Production deployments should normally occur during the approved deployment window.
+
+Emergency deployments are permitted when required to resolve critical production incidents.
+
+Emergency deployments require approval from the designated incident manager.
+
+Deployment logs must be retained for auditing purposes.

@@ -1,0 +1,15 @@
+Product Pricing Policy
+
+The Enterprise Knowledge Assistant is offered in three plans.
+
+The Starter plan supports up to 100 users.
+
+The Business plan supports up to 1,000 users.
+
+The Enterprise plan supports more than 1,000 users and includes advanced security controls.
+
+Enterprise customers can configure custom document retention policies.
+
+Enterprise customers can also integrate the assistant with corporate identity providers.
+
+Pricing for the Enterprise plan is negotiated based on organizational requirements.
